@@ -1,0 +1,7 @@
+{
+  "name": "SupplyGuard - Supply Chain Compliance Monitor",
+  "description": "An automated supply chain risk management platform designed for EU SMEs to comply with CSDDD. Features AI-powered news monitoring, sanctions screening, and executive reporting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
